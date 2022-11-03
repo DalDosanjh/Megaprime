@@ -1,0 +1,8 @@
+C:\Users\dalji\source\repos\MegaPrime\MegaPrime\bin\Debug\MegaPrime.exe.config
+C:\Users\dalji\source\repos\MegaPrime\MegaPrime\bin\Debug\MegaPrime.exe
+C:\Users\dalji\source\repos\MegaPrime\MegaPrime\bin\Debug\MegaPrime.pdb
+C:\Users\dalji\source\repos\MegaPrime\MegaPrime\obj\Debug\MegaPrime.csproj.AssemblyReference.cache
+C:\Users\dalji\source\repos\MegaPrime\MegaPrime\obj\Debug\MegaPrime.csproj.SuggestedBindingRedirects.cache
+C:\Users\dalji\source\repos\MegaPrime\MegaPrime\obj\Debug\MegaPrime.csproj.CoreCompileInputs.cache
+C:\Users\dalji\source\repos\MegaPrime\MegaPrime\obj\Debug\MegaPrime.exe
+C:\Users\dalji\source\repos\MegaPrime\MegaPrime\obj\Debug\MegaPrime.pdb
